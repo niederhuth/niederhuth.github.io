@@ -3,8 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://niederhuth.github.io/people/chadniederhuth/</loc>
+    <lastmod>2017-10-19T19:13:50-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://niederhuth.github.io/news/1/</loc>
+    <lastmod>2017-10-20T12:38:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://niederhuth.github.io/publications/</loc>
+    <lastmod>2017-10-20T10:02:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://niederhuth.github.io/openings/</loc>
+    <lastmod>2017-10-19T21:41:21-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://niederhuth.github.io/news/</loc>
     <lastmod>2017-10-19T21:41:17-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://niederhuth.github.io/research/</loc>
+    <lastmod>2017-10-19T21:41:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://niederhuth.github.io/blog/</loc>
+    <lastmod>2017-10-19T21:41:07-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://niederhuth.github.io/people/</loc>
+    <lastmod>2017-10-19T21:35:05-07:00</lastmod>
   </url>
   
   <url>
@@ -19,6 +54,7 @@
   
   <url>
     <loc>https://niederhuth.github.io/</loc>
+    <lastmod>2017-10-19T19:13:50-07:00</lastmod>
     <priority>0</priority>
   </url>
   

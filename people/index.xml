@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>People on The Niederhuth Lab</title>
+    <link>https://niederhuth.github.io/people/</link>
+    <description>Recent content in People on The Niederhuth Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Oct 2017 21:35:05 -0700</lastBuildDate>
+    
+	<atom:link href="https://niederhuth.github.io/people/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chad Niederhuth</title>
+      <link>https://niederhuth.github.io/people/chadniederhuth/</link>
+      <pubDate>Thu, 19 Oct 2017 19:13:50 -0700</pubDate>
+      
+      <guid>https://niederhuth.github.io/people/chadniederhuth/</guid>
+      <description>Assistant Professor Publications 2017 Bewick A. J., C. E. Niederhuth, L. Ji, N. A. Rohr, P. T. Griffin, J. Leebens-Mack, R. J. Schmitz (2017) The evolution of CHROMOMETHYLASES and gene body DNA methylation in plants. Genome Biol 18(1):65.
+Niederhuth C. E., R. J. Schmitz (2017) Putting DNA methylation in context: from genomes to gene expression in plants. Biochim Biophys Acta. 1860(1): 149-56.
+2016 Niederhuth C. E., A. J. Bewick, L.</description>
+    </item>
+    
+  </channel>
+</rss>
