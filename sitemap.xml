@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://niederhuth.github.io/</loc>
+    <lastmod>2017-10-22T23:55:26-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://niederhuth.github.io/data/</loc>
     <lastmod>2017-10-22T18:57:51-07:00</lastmod>
   </url>
@@ -54,12 +59,6 @@
   
   <url>
     <loc>https://niederhuth.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://niederhuth.github.io/</loc>
-    <lastmod>2017-10-19T19:13:50-07:00</lastmod>
     <priority>0</priority>
   </url>
   
